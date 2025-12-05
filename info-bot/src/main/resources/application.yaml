@@ -1,0 +1,4 @@
+telegram-bot:
+  token: ${BOT_TOKEN:fake_token}
+  username: ${BOT_USERNAME:@bot_name}
+  path: ${BOT_PATH:localhost}
